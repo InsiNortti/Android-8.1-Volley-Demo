@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <!-- SPLASH SCREEN-->
+    <string name="SplashText">Tuomo Laukkanen</string>
+    <!-- FEATURES -->
+    <string name="FeaturesTitle">Toteutetut toiminnot</string>
+    <string name="FeaturesSummary">Kaikki tarvittava arvosanaan 5!</string>
+    <!-- MAIN ACTIVITY -->
+    <string name="MainTitle">Tapahtumakalenteri</string>
+    <string name="MainTextView_StartDate">Alkaen</string>
+    <string name="MainTextView_EndDate">Päättyen</string>
+    <string name="MainTextView_Keyword">Hakusana</string>
+    <string name="MainTextView_KeywordHint">"esim. kirjasto"</string>
+    <string name="MainButton_Search">Hae tapahtumia</string>
+
+</resources>
